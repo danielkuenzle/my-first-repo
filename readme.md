@@ -1,29 +1,13 @@
-# This is a large heading
+# Daniel Kuenzle
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Switzerland
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+I love reading all kinds of stuff about computers, society, history, economy, ...
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+Fy favorite since I was a little kid: Spaghetti with butter and - you won't find outside Switzerland - Aromat
